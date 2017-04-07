@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_focused">#FF4081</color>
+    <color name="text_checked">#FF4081</color>
+    <color name="text_enabled">#FF4081</color>
+    <color name="text_default">#FFFFFF</color>
+    <color name="item_checked">#FFFFFF</color>
+    <color name="background_activity">#8bc34a</color>
+    <drawable name="item_focused">#FFFFFF</drawable>
+    <drawable name="item_selected">#FFFFFF</drawable>
+</resources>
